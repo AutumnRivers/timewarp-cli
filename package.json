@@ -1,0 +1,33 @@
+{
+  "name": "timewarp-cli",
+  "version": "0.1.0",
+  "description": "A CLI version of Timewarp made for low-end Linux PCs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartieCodes/timewarp-cli.git"
+  },
+  "keywords": [
+    "twrp",
+    "android",
+    "timewarp"
+  ],
+  "author": "AutumnRivers",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SmartieCodes/timewarp-cli/issues"
+  },
+  "homepage": "https://github.com/SmartieCodes/timewarp-cli#readme",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "center-text": "^0.1.0",
+    "chalk": "^2.4.2",
+    "cli-spinners": "^2.2.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.2"
+  }
+}
